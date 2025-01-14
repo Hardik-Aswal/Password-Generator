@@ -2,25 +2,31 @@
 
 This project is a simple password generator built using HTML, CSS, and JavaScript.
 
-Overview
+## Overview
+
 The Password Generator allows users to generate random passwords based on their preferences for length and character types (uppercase, lowercase, numbers, symbols). It provides a visual strength indicator and allows users to copy the generated password to their clipboard.
 
 Open the Password Generator in your web browser.
 
-Features
+## Features
+
 Password Length Slider: Adjust the length of the password using a slider.
 Character Options: Select which types of characters to include (uppercase, lowercase, numbers, symbols).
 Password Display: Shows the generated password with the ability to copy it to the clipboard.
 Strength Indicator: Visual feedback on password strength based on selected criteria.
 Responsive Design: Designed to work well on various screen sizes.
-Technologies Used
+## Technologies Used
+
 HTML: Structure of the web page.
+
 CSS: Styling for the layout and visual effects.
+
 JavaScript: Logic for generating passwords, handling user interactions, and updating the UI dynamically.
-Deployment
+
+## Deployment
 This project is deployed and can be accessed online at Password Generator.
 
-How to Use
+## How to Use
 Open the Password Generator in your web browser.
 Adjust the settings for password length and character types.
 Click on "Generate Password" to generate a new password.
