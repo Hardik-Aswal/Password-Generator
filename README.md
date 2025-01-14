@@ -6,7 +6,7 @@ This project is a simple password generator built using HTML, CSS, and JavaScrip
 
 The Password Generator allows users to generate random passwords based on their preferences for length and character types (uppercase, lowercase, numbers, symbols). It provides a visual strength indicator and allows users to copy the generated password to their clipboard.
 
-Open the Password Generator in your web browser.
+Open the Password Generator in your web browser[a link](https://password-generator777.netlify.app/).
 
 ## Features
 
